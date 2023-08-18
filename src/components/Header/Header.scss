@@ -47,7 +47,7 @@ header {
         }
       }
       .text-logo {
-        color: $color-blue;
+        color: $color-red-0;
         font-family: "Metal Mania", cursive;
         @include responsive_mobile--tiny {
           @include Text($fs-0, $fw-regular);

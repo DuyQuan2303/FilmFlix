@@ -8,7 +8,7 @@ export default class Footer extends Component {
           <div className="footer__above">
             <div className="above__row row">
               <div className="above__item col-2 tix-info">
-                <p className="above__title">AP Movie</p>
+                <p className="above__title">Film Flix</p>
                 <ul className="above__list">
                   <li className="list__item">
                     <a className="list__link" href="/#">
@@ -253,17 +253,17 @@ export default class Footer extends Component {
             <div className="below__row justify-content-center align-items-center row">
               <div className="below__left col-md-3 col-xs-12 col-sm-12">
                 <img
-                  src="https://i0.wp.com/thegamehaus.com/wp-content/uploads/2020/05/Volibear_Emote.png?resize=256%2C256&ssl=1"
+                  src="https://static.vecteezy.com/system/resources/previews/002/442/856/original/f-letter-logo-template-initials-sign-free-vector.jpg"
                   alt="hello"
                 />
-                <span className="text-logo">AP Movie</span>
+                <span className="text-logo">Film Flix</span>
               </div>
               <div className="below__middle col-md-7 col-sm-12 col-xs-12">
                 <div className="middle__title">
-                  AP Movie – DỰ ÁN ĐẶT VÉ XEM PHIM
+                  Film Flix by Group01
                 </div>
                 <span>
-                  <span>Số Điện Thoại (Hotline): 1900 000 222</span>
+                  <span>Số Điện Thoại (Hotline): 1900 000 000</span>
                   <br />
                   <span>
                     Email:

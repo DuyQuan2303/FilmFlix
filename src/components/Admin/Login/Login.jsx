@@ -7,7 +7,7 @@ export default function Login() {
       <form action="#" className="login-form">
         <div className="login-img">
           <img
-            src="https://i0.wp.com/thegamehaus.com/wp-content/uploads/2020/05/Volibear_Emote.png?resize=256%2C256&ssl=1"
+            src="https://static.vecteezy.com/system/resources/previews/002/442/856/original/f-letter-logo-template-initials-sign-free-vector.jpg"
             alt="logo"
           />
           {/* <span className="text-logo">APMovie Admin</span> */}
