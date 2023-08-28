@@ -134,17 +134,17 @@ const AdminLayout = (props) => {
                 style={{ textDecoration: "none" }}
               >
                 <img
-                  src="https://i0.wp.com/thegamehaus.com/wp-content/uploads/2020/05/Volibear_Emote.png?resize=256%2C256&ssl=1"
+                  src="https://static.vecteezy.com/system/resources/previews/002/442/856/original/f-letter-logo-template-initials-sign-free-vector.jpg"
                   alt="logo"
                   style={{ width: 45, height: 45 }}
                 />
                 <span
                   style={{
                     fontFamily: '"Metal Mania", cursive',
-                    color: "#60c5ef",
+                    color: "#fb4226",
                   }}
                 >
-                  AP Movie Admin
+                  Film Flix Admin
                 </span>
               </NavLink>
             </Typography>
