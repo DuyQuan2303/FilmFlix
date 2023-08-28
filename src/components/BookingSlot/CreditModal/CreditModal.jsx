@@ -46,7 +46,7 @@ export default class CreditModal extends Component {
                 <div id="PaymentForm">
                   <div className="row">
                     <div className="credit-card col-md-6 col-sm-12 mb-2">
-                      <Cards
+                    <Cards
                         cvc={this.state.cvc}
                         expiry={this.state.expiry}
                         focused={this.state.focus}

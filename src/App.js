@@ -13,8 +13,6 @@ import { AdminTemplate } from "./templates/AdminTemplate/AdminTemplate";
 import Dashboard from "./pages/Dashboard";
 import UserManagement from "./pages/UserManagement";
 import MovieManagement from "./pages/MovieManagement";
-import { LoginAdminTemplate } from "./templates/LoginAdminTemplate/LoginAdminTemplate";
-import LoginAdmin from "./pages/LoginAdmin";
 import AllMovie from "./pages/AllMovie";
 import CreateShowTime from "./pages/CreateShowTime";
 import ClusterCinema from "./pages/ClusterCinema";

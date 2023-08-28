@@ -39,14 +39,7 @@ $fs-6: 50px;
 // $mg-0: 2px;
 // $mg-1: 10px;
 // $mg-2: 25px;
-$breakpoints: (
-  "extra-large": 1200px,
-  "large": 992px,
-  "medium": 768px,
-  "small": 576px,
-  "tiny": 420px,
-  "super-tiny": 320px,
-);
+
 
 $default-spacing: 10px;
 
@@ -69,3 +62,11 @@ $fw-regular: 400;
 $fw-light: 300;
 
 
+$breakpoints: (
+  "extra-large": 1200px,
+  "large": 992px,
+  "medium": 768px,
+  "small": 576px,
+  "tiny": 420px,
+  "super-tiny": 320px,
+);

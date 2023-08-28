@@ -10,7 +10,6 @@ export default function Login() {
             src="https://static.vecteezy.com/system/resources/previews/002/442/856/original/f-letter-logo-template-initials-sign-free-vector.jpg"
             alt="logo"
           />
-          {/* <span className="text-logo">APMovie Admin</span> */}
         </div>
         <h1>Log In</h1>
         <div className="textb">
